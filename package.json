@@ -1,0 +1,11 @@
+{
+  "name": "react-upload-window",
+  "version": "0.0.1",
+  "description": "React-based upload window influenced by the upload window of Google Drive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Epps",
+  "license": "MIT"
+}
